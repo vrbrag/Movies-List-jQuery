@@ -1,0 +1,40 @@
+body{
+   background-color: antiquewhite;
+   text-align: center;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+form {
+   display: inline;
+   font-size: 18px;
+   margin: auto;
+   width: 50%;
+}
+
+input{
+   border-radius: 5px;
+}
+button{
+   background-color: rgb(187, 176, 113);
+   border-radius: 5px;
+   font-family: inherit;
+}
+
+table, thead{
+   width: 50%;
+   margin: 0 auto;
+   
+}
+table, th, td {
+   border: 1px solid black;
+   border-collapse:collapse;
+}
+table  tbody td{
+    text-align:center;
+    margin: inherit;
+    width: 100%;
+}
+table thead {
+   text-align: center;
+}
